@@ -20,8 +20,11 @@ ReceiveSharingIntent.setMockValues(
 * Use instance getter i.e. `ReceiveSharingIntent.instance.getInitialMedia()` instead of `ReceiveSharingIntent.getInitialMedia()`
 
 ## 1.6.8
-
 * Fix sometimes file doesn't exist error on iOS
+
+## 1.6.9
+
+* Add support for gradle 8
 
 ## 1.6.7
 
